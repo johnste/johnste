@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hej!
+
+I'm a JavaScript/TypeScript full stack engineer in my every day job.
+
+Here on GitHub, I'm mostly building and maintaining [Finicky](https://github.com/johnste/finicky)
 
 <!--
 **johnste/johnste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
