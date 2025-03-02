@@ -1,6 +1,6 @@
 ### Hej!
 
-Here on GitHub, I'm mostly supposed to be building and maintaining [Finicky](https://github.com/johnste/finicky), but I don't have much time to do so.
+I'm on [bluesky](https://bsky.app/profile/mejkarsense.se)
 
 <!--
 **johnste/johnste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
