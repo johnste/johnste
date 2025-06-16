@@ -1,7 +1,5 @@
 ### Hej!
 
-I'm on [bluesky](https://bsky.app/profile/mejkarsense.se)
-
 <!--
 **johnste/johnste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
